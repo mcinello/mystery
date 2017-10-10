@@ -10,3 +10,4 @@ Fifth Choice: ____ 1. Listen to what they're saying
 8th Choice: Approach Danny again
 9th Choice b: 3. Approach Billy
 10th Choice: 2. Talk to Billy
+11th Choice: 2. Approach Helga and Doctor
