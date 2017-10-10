@@ -1,6 +1,6 @@
 CHOICES
 
-First Choice: ____
+First Choice: ____ 1. stick with the sandwich
 Second Choice: ____
 Third Choice: ____
 Fourth Choice: ____
