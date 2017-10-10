@@ -2,6 +2,6 @@ CHOICES
 
 First Choice: ____ 1. stick with the sandwich
 Second Choice: ____  1. stay and help
-Third Choice: ____
+Third Choice: ____ 3. Approach Danny
 Fourth Choice: ____
 Fifth Choice: ____
