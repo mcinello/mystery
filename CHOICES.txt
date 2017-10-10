@@ -3,5 +3,5 @@ CHOICES
 First Choice: ____ 1. stick with the sandwich
 Second Choice: ____  1. stay and help
 Third Choice: ____ 3. Approach Danny
-Fourth Choice: ____
+Fourth Choice: ____ 2. Approach Helga and the Doctor
 Fifth Choice: ____
