@@ -1,7 +1,7 @@
 CHOICES
 
 First Choice: ____ 1. stick with the sandwich
-Second Choice: ____
+Second Choice: ____ 1. stay and help
 Third Choice: ____
 Fourth Choice: ____
 Fifth Choice: ____
